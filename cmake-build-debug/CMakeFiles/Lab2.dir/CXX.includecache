@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Charlie/Google Drive/COSC 2030/Lab2/LinkedList.h
+iostream
+-
+Node.h
+/Users/Charlie/Google Drive/COSC 2030/Lab2/Node.h
+
+/Users/Charlie/Google Drive/COSC 2030/Lab2/ListProcessor.cpp
+LinkedList.h
+/Users/Charlie/Google Drive/COSC 2030/Lab2/LinkedList.h
+
+/Users/Charlie/Google Drive/COSC 2030/Lab2/Node.h
+iostream
+-
+

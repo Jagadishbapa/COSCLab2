@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lab2.dir/ListProcessor.cpp.o CMakeFiles/Lab2.dir/LinkedList.cpp.o CMakeFiles/Lab2.dir/Node.cpp.o  -o Lab2 
